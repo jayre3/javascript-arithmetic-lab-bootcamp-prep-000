@@ -1,3 +1,1 @@
-var number = 5
-
-number++
+number += 3 // 8
